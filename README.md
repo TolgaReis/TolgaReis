@@ -1,21 +1,25 @@
 ### Hi there 👋
 
-[![Tolga's GitHub stats](https://github-readme-stats.vercel.app/api?username=TolgaReis)](https://github.com/anuraghazra/github-readme-stats)
+I am a Software Engineer with a strong focus on **Edge AI, TinyML, and Deep Learning**.  
+Currently pursuing a PhD while building intelligent systems that run efficiently on constrained devices.
 
-- 🌱 I’m currently learning Deep Learning.
-- 👯 I’m looking to collaborate on new projects.
-- 💬 Ask me about AWS Cloud.
-- 📫 How to reach me: tolgaareis@gmail.com
-- ⚡ Fun fact: Nowhere, now here
+🔬 Research Interests  
+- TinyML & Edge AI  
+- Time Series Classification  
+- Model Compression & Optimization  
+- Embedded Intelligence  
 
-<!--
-**TolgaReis/TolgaReis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently Learning  
+- Deep Learning & Efficient Neural Networks  
+- Edge deployment & hardware-aware ML  
 
-Here are some ideas to get you started:
+🤝 Open to Collaborate On  
+- TinyML & Edge AI projects  
+- Applied ML research  
+- Open-source intelligent systems  
 
-- 🔭 I’m currently working on ...
-- 🤔 I’m looking for help with ...
+💬 Ask Me About  
+TinyML, edge deployment, and efficient deep learning models.
 
-- 😄 Pronouns: ...
-
--->
+📫 Contact  
+tolgaareis@gmail.com
